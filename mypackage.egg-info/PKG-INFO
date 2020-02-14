@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: mypackage
+Version: 0.1
+Summary: EDSA example python package
+Home-page: https://github.com/<username>/<package-name>
+Author: wnyanw@gmail.com
+Author-email: wnyanw@gmailcom
+License: MIT
+Description: # mypackage
+        This library was created as an example of how to publish your own Python package.
+        
+        # How to install
+        Import numpy
+        use the help file in myModule.py to see the requirement
+Platform: UNKNOWN
